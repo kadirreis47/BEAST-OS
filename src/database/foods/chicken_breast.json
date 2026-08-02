@@ -1,0 +1,16 @@
+{
+  "id": "FDB-0001",
+  "name": "Chicken Breast",
+  "category": "Meat",
+  "nutrition": {
+    "calories": 120,
+    "protein": 23.5,
+    "carbohydrate": 0,
+    "fat": 2.6,
+    "fiber": 0
+  },
+  "price_score": 9.4,
+  "satiety_score": 9.7,
+  "meal_prep": true,
+  "freezer": true
+}

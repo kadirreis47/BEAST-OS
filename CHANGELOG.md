@@ -1,10 +1,6 @@
-# Changelog
+# Pack 004
 
-## v0.1.0-core
-
-- Created product specification
-- Created editorial style guide
-- Created complete module architecture
-- Created roadmap
-- Added first completed Foundation chapter
-- Added chapter, recipe and exercise templates
+- Added 10 foods
+- Added 5 recipes
+- Added water calculator
+- Added fiber calculator

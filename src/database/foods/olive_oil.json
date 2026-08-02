@@ -1,0 +1,13 @@
+{
+  "id": "FDB-0012",
+  "name": "Olive Oil",
+  "category": "Food",
+  "nutrition": {
+    "calories": 884,
+    "protein": 0,
+    "carbohydrate": 0,
+    "fat": 100
+  },
+  "meal_prep": true,
+  "freezer": false
+}

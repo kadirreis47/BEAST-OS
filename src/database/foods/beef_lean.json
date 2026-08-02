@@ -1,0 +1,11 @@
+{
+  "id": "FDB-0017",
+  "name": "Beef Lean",
+  "nutrition": {
+    "calories": 176,
+    "protein": 26,
+    "carbohydrate": 0,
+    "fat": 8,
+    "fiber": 0
+  }
+}

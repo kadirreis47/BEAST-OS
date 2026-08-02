@@ -1,0 +1,13 @@
+{
+  "name": "Chicken Rice Bowl",
+  "ingredients": [
+    "Chicken Breast",
+    "White Rice",
+    "Broccoli",
+    "Olive Oil"
+  ],
+  "protein_g": 42,
+  "calories": 612,
+  "difficulty": "easy",
+  "meal_prep": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "FDB-0005",
+  "name": "Egg",
+  "category": "Egg",
+  "nutrition": {
+    "calories": 143,
+    "protein": 12.6,
+    "carbohydrate": 0.7,
+    "fat": 9.5
+  }
+}

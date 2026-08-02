@@ -1,0 +1,14 @@
+{
+  "id": "FDB-0010",
+  "name": "Broccoli",
+  "category": "Food",
+  "nutrition": {
+    "calories": 34,
+    "protein": 2.8,
+    "carbohydrate": 6.6,
+    "fat": 0.4,
+    "fiber": 2.6
+  },
+  "meal_prep": true,
+  "freezer": true
+}

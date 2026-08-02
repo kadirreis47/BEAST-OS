@@ -1,0 +1,8 @@
+# Delta ZIP içeriğini BEAST-OS proje köküne çıkarın.
+
+git checkout main
+git pull --rebase origin main
+git add src/beastos pyproject.toml tests/test_service_container.py docs/DEPENDENCY_INJECTION.md .github/workflows/quality.yml
+git status
+git commit -m "feat(core): add dependency injection container"
+git push origin main

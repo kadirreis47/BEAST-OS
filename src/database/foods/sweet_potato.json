@@ -1,0 +1,11 @@
+{
+  "id": "FDB-0018",
+  "name": "Sweet Potato",
+  "nutrition": {
+    "calories": 86,
+    "protein": 1.6,
+    "carbohydrate": 20.1,
+    "fat": 0.1,
+    "fiber": 3
+  }
+}

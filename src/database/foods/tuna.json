@@ -1,0 +1,13 @@
+{
+  "id": "FDB-0013",
+  "name": "Tuna",
+  "category": "Food",
+  "nutrition": {
+    "calories": 132,
+    "protein": 29,
+    "carbohydrate": 0,
+    "fat": 1
+  },
+  "meal_prep": true,
+  "freezer": true
+}

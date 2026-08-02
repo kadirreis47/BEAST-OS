@@ -1,0 +1,12 @@
+{
+  "id": "FDB-0004",
+  "name": "Oats",
+  "category": "Grain",
+  "nutrition": {
+    "calories": 389,
+    "protein": 16.9,
+    "carbohydrate": 66.3,
+    "fat": 6.9,
+    "fiber": 10.6
+  }
+}

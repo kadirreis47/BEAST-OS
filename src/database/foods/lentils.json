@@ -1,0 +1,14 @@
+{
+  "id": "FDB-0008",
+  "name": "Lentils",
+  "category": "Food",
+  "nutrition": {
+    "calories": 116,
+    "protein": 9,
+    "carbohydrate": 20.1,
+    "fat": 0.4,
+    "fiber": 7.9
+  },
+  "meal_prep": true,
+  "freezer": true
+}

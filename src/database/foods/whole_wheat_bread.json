@@ -1,0 +1,11 @@
+{
+  "id": "FDB-0022",
+  "name": "Whole Wheat Bread",
+  "nutrition": {
+    "calories": 247,
+    "protein": 13,
+    "carbohydrate": 41,
+    "fat": 4.2,
+    "fiber": 7
+  }
+}

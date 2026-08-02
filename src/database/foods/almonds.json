@@ -1,0 +1,14 @@
+{
+  "id": "FDB-0015",
+  "name": "Almonds",
+  "category": "Food",
+  "nutrition": {
+    "calories": 579,
+    "protein": 21.2,
+    "carbohydrate": 21.6,
+    "fat": 49.9,
+    "fiber": 12.5
+  },
+  "meal_prep": true,
+  "freezer": false
+}

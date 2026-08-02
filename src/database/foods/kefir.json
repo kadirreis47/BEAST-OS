@@ -1,0 +1,13 @@
+{
+  "id": "FDB-0014",
+  "name": "Kefir",
+  "category": "Food",
+  "nutrition": {
+    "calories": 64,
+    "protein": 3.5,
+    "carbohydrate": 4.8,
+    "fat": 3.5
+  },
+  "meal_prep": true,
+  "freezer": true
+}

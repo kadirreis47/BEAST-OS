@@ -1,0 +1,13 @@
+{
+  "id": "FDB-0006",
+  "name": "Turkey Breast",
+  "category": "Food",
+  "nutrition": {
+    "calories": 114,
+    "protein": 24,
+    "carbohydrate": 0,
+    "fat": 1.5
+  },
+  "meal_prep": true,
+  "freezer": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "FDB-0019",
+  "name": "Spinach",
+  "nutrition": {
+    "calories": 23,
+    "protein": 2.9,
+    "carbohydrate": 3.6,
+    "fat": 0.4,
+    "fiber": 2.2
+  }
+}

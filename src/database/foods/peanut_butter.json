@@ -1,0 +1,11 @@
+{
+  "id": "FDB-0021",
+  "name": "Peanut Butter",
+  "nutrition": {
+    "calories": 588,
+    "protein": 25,
+    "carbohydrate": 20,
+    "fat": 50,
+    "fiber": 6
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "FDB-0024",
+  "name": "Milk",
+  "nutrition": {
+    "calories": 61,
+    "protein": 3.2,
+    "carbohydrate": 4.8,
+    "fat": 3.3,
+    "fiber": 0
+  }
+}

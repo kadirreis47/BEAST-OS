@@ -1,0 +1,13 @@
+{
+  "id": "FDB-0007",
+  "name": "Greek Yogurt",
+  "category": "Food",
+  "nutrition": {
+    "calories": 59,
+    "protein": 10.3,
+    "carbohydrate": 3.6,
+    "fat": 0.4
+  },
+  "meal_prep": true,
+  "freezer": true
+}

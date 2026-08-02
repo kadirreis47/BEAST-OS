@@ -1,0 +1,15 @@
+{
+  "id": "FDB-0002",
+  "name": "Salmon",
+  "category": "Fish",
+  "nutrition": {
+    "calories": 208,
+    "protein": 20,
+    "carbohydrate": 0,
+    "fat": 13
+  },
+  "price_score": 6.3,
+  "satiety_score": 9.4,
+  "meal_prep": true,
+  "freezer": true
+}

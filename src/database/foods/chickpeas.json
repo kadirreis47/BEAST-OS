@@ -1,0 +1,11 @@
+{
+  "id": "FDB-0023",
+  "name": "Chickpeas",
+  "nutrition": {
+    "calories": 164,
+    "protein": 8.9,
+    "carbohydrate": 27.4,
+    "fat": 2.6,
+    "fiber": 7.6
+  }
+}

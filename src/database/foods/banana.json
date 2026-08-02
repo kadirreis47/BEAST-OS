@@ -1,0 +1,14 @@
+{
+  "id": "FDB-0009",
+  "name": "Banana",
+  "category": "Food",
+  "nutrition": {
+    "calories": 89,
+    "protein": 1.1,
+    "carbohydrate": 22.8,
+    "fat": 0.3,
+    "fiber": 2.6
+  },
+  "meal_prep": true,
+  "freezer": false
+}

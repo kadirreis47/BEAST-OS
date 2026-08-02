@@ -1,0 +1,11 @@
+{
+  "id": "FDB-0020",
+  "name": "Apple",
+  "nutrition": {
+    "calories": 52,
+    "protein": 0.3,
+    "carbohydrate": 13.8,
+    "fat": 0.2,
+    "fiber": 2.4
+  }
+}

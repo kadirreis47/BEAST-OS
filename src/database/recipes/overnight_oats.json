@@ -1,0 +1,12 @@
+{
+  "name": "Overnight Oats",
+  "ingredients": [
+    "Oats",
+    "Greek Yogurt",
+    "Banana"
+  ],
+  "protein_g": 28,
+  "calories": 485,
+  "difficulty": "easy",
+  "meal_prep": true
+}

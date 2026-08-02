@@ -1,0 +1,11 @@
+{
+  "id": "FDB-0025",
+  "name": "Blueberries",
+  "nutrition": {
+    "calories": 57,
+    "protein": 0.7,
+    "carbohydrate": 14.5,
+    "fat": 0.3,
+    "fiber": 2.4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "FDB-0011",
+  "name": "Potato",
+  "category": "Food",
+  "nutrition": {
+    "calories": 77,
+    "protein": 2,
+    "carbohydrate": 17,
+    "fat": 0.1,
+    "fiber": 2.2
+  },
+  "meal_prep": true,
+  "freezer": true
+}

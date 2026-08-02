@@ -1,0 +1,11 @@
+{
+  "id": "FDB-0016",
+  "name": "Cottage Cheese",
+  "nutrition": {
+    "calories": 98,
+    "protein": 11.1,
+    "carbohydrate": 3.4,
+    "fat": 4.3,
+    "fiber": 0
+  }
+}
